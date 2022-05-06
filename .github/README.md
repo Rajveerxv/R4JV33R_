@@ -21,17 +21,10 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Raleway`](../assets/font2.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
-
-
 
 # ⚡️ Getting Started
 
 ### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
-
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
 
 
 ## 🖇 Prerequisites
@@ -72,7 +65,7 @@ For more information on the technologies that power the Yukki Music Bot, check o
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Rajveerzv/R4JV33R_
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ sudo bash setup
 ```
@@ -83,19 +76,11 @@ shikhar@MacBook~ $ sudo bash setup
 shikhar@MacBook~ $ bash start
 ```
 
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
 
-
-<img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
 
 
 ## 🏷 Support
 
-Reach out to the maintainer at one of the following places:
-
-- [GitHub Issues](https://github.com/TeamYukki/yukkimusicbot/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact options listed on [this GitHub profile](https://github.com/TeamYukki)
-- [Telegram Support](https://t.me/YukkiSupport)
 
 ## 🎗 Project assistance
 
